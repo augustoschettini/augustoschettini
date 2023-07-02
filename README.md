@@ -42,6 +42,7 @@ Enfim é isso, iniciando aqui a minha jornada!
 
 ##
 
+![Snake Animation](https://github.com/augustoschettini/blob/output/github-contribution-grid-snake.svg)
 **About Me**
 
 <!-- US Stats
