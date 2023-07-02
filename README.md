@@ -13,8 +13,8 @@ Enfim é isso, iniciando aqui a minha jornada!
 - 📫 Como me contatar: schettiniaugusto@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-[![Schettini's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoschettini&rank_icon=github&show=reviews&show_icons=true&theme=midnight-purple&locale=pt-br)](https://github.com/augustoschettini/augustoschettini)
 
+[![Schettini's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoschettini&rank_icon=github&show=reviews&show_icons=true&theme=midnight-purple&locale=pt-br)](https://github.com/augustoschettini/augustoschettini)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoschettini&layout=compact&theme=midnight-purple&locale=pt-br)](https://github.com/augustoschettini/augustoschettini)
 
 <!-- Div Linguagens de Programação -->
@@ -29,7 +29,20 @@ Enfim é isso, iniciando aqui a minha jornada!
     <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/android/android-original.svg">
     <img align="center" alt="Android-Studio" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg">
 </div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+
+##
+
+**Meus Contatos**
+<!-- Div Contatos -->
+<div>
+    <a href="mailto:schettiniaugusto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/augustoschettini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/augusto-schettini-b7595362/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+**About Me**
 
 <!-- US Stats
 ## 🗣 🇺🇸 Hi there 👋
@@ -55,7 +68,7 @@ Here are some ideas to get you started:
 
 Icones das linguagens
 
-Fonte: https://github.com/devicons/devicon/
+Fonte: https://github.com/devicons/devicon/tree/master/icons
 <img align="center" alt="" height="30" width="40" src="">
 
 -->
