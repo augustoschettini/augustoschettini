@@ -1,5 +1,5 @@
 ## 🗣 🇧🇷 Olá Mundo! 👋
-
+[![GitHub Augusto Schettini](https://img.shields.io/github/followers/augustoschettini?label=follow&style=social)](https://github.com/augustoschettini)
 Meu nome é Augusto Schettini, sou autodidata e atualmente estou estudando programação. Iniciando pela programação de aplicativos Android. 
 
 Meu interesse nesse assunto surgiu após tentar usar um aplicativo open source em uma versão recente do Android e o mesmo não estava compatibilizado com a mesma. Logo vi que poderia iniciar meus estudos nessa área e contribuir com a comunidade de usuários do [AnkiDroid](https://github.com/ankidroid/Anki-Android).
