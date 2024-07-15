@@ -1,20 +1,20 @@
 ## 🗣 🇧🇷 Augusto Schettini 👋
 [![GitHub Augusto Schettini](https://img.shields.io/github/followers/augustoschettini?label=follow&style=social)](https://github.com/augustoschettini)
 
-Meu nome é Augusto Schettini, sou autodidata e atualmente estou estudando programação com o objetivo de fazer minha transição de carreira. 
+Meu nome é Augusto Schettini, sou um profissional da área de infraestrutura em TI, autodidata e atualmente estou estudando programação e segurança da informação (cibersegurança) com o objetivo de fazer minha transição de carreira.
 
 Meu interesse nesse assunto surgiu após tentar usar um aplicativo open source em uma versão recente do Android e o mesmo não estava compatibilizado com a mesma. Logo vi que poderia iniciar meus estudos nessa área e contribuir com a comunidade de usuários do [AnkiDroid](https://github.com/ankidroid/Anki-Android).
 
-Já tive contato anterior com programação quando trabalhei com suporte técnico e também em alguns projetos pessoais com desenvolvimento de sites. 
+Já tive contato anterior com programação no início da minha carreira em suporte técnico e também em alguns projetos freelance com desenvolvimento de sites.
 
 Enfim é isso, iniciando aqui a minha jornada!
 
-- 🔭 Atualmente trabalhando nas minhas habilidades e conhecimentos para me tornar um programador.
-- 🌱 Estou aprendendo sobre desenvolvimento de aplicativos Android (Android Studio, Kotlin e Flutter)
+- 🔭 Atualmente trabalhando nas minhas habilidades e conhecimentos para me tornar um profissional na área de Cibersegurança.
+- 🌱 Estou aprendendo sobre desenvolvimento
 - 😄 Pronomes: Ele/Dele
 ##
 
-[![Schettini's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoschettini&rank_icon=github&show=reviews&show_icons=true&theme=midnight-purple&locale=pt-br)](https://github.com/augustoschettini/augustoschettini)
+[snake animation](https://github.com/augustoschettini/augustoschettini/blob/output/github-contribution-grid-snake2.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoschettini&layout=compact&theme=midnight-purple&locale=pt-br)](https://github.com/augustoschettini/augustoschettini)
 
 ##
@@ -54,20 +54,3 @@ Enfim é isso, iniciando aqui a minha jornada!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/augustoschettini/augustoschettini/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/augustoschettini/augustoschettini/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🗣 🇺🇸 About Me
-
-Hi there 🖖
-
-My name is Augusto Schettini, and I am self-taught. Currently, I am studying programming with the aim of making a career transition.
-
-My interest in this subject arose when I attempted to use an open-source application on a recent version of Android, and it was not compatible. I soon realized that I could start my studies in this field and contribute to the [AnkiDroid](https://github.com/ankidroid/Anki-Android) user community.
-
-I have had previous experience with programming while working in technical support and also through some personal projects involving website development.
-
-That's it! I'm starting my journey here!
-
-- 🔭 Currently working on honing my skills and knowledge to become a programmer.
-- 🌱 I am learning about Android app development (Android Studio, Kotlin, and Flutter).
-- 📫 How to reach me: schettiniaugusto@gmail.com
-- 😄 Pronouns: He/Him
