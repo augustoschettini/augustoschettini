@@ -1,11 +1,15 @@
 ## 🗣 🇧🇷 Augusto Schettini 👋
 [![GitHub Augusto Schettini](https://img.shields.io/github/followers/augustoschettini?label=follow&style=social)](https://github.com/augustoschettini)
 
-Meu nome é Augusto Schettini, sou um profissional da área de infraestrutura em TI, autodidata e atualmente estou estudando programação e segurança da informação (cibersegurança) com o objetivo de fazer minha transição de carreira.
+Olá! Meu nome é Augusto Schettini, sou um profissional da área de infraestrutura em TI. Com uma sólida formação técnica e habilidades de liderança, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para o sucesso das equipes com as quais trabalho. 
 
-Meu interesse nesse assunto surgiu após tentar usar um aplicativo open source em uma versão recente do Android e o mesmo não estava compatibilizado com a mesma. Logo vi que poderia iniciar meus estudos nessa área e contribuir com a comunidade de usuários do [AnkiDroid](https://github.com/ankidroid/Anki-Android).
+Autodidata, sempre em busca de novos conhecimentos, atualmente estou estudando programação e segurança da informação (cibersegurança) com o objetivo de fazer minha transição de carreira.
 
-Já tive contato anterior com programação no início da minha carreira em suporte técnico e também em alguns projetos freelance com desenvolvimento de sites.
+Sempre fui um entusiasta na área de Cibersegurança, na época do Orkut eu já participava de comunidades "Hackers" realizando os estudos sobre exploração de vulnerabilidades de softwares.
+
+Já meu interesse na área de desenvolvimento (Programação) surgiu com o desenvolvimento de sites Web, na época com o Flash Player e Dreamweaver, mas havia deixado de lado, até que recentemente após tentar usar um aplicativo open source em uma versão recente do Android, onde me deparei com um desafio. O Aplicativo não estava compatibilizado com a versão mais recente do Android. 
+
+Logo vi uma oportunidade em que poderia iniciar meus estudos nessa área e contribuir com a comunidade de usuários do [AnkiDroid](https://github.com/ankidroid/Anki-Android).
 
 Enfim é isso, iniciando aqui a minha jornada!
 
@@ -54,3 +58,24 @@ Enfim é isso, iniciando aqui a minha jornada!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/augustoschettini/augustoschettini/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/augustoschettini/augustoschettini/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+
+## 🗣 EN Augusto Schettini 👋
+[![GitHub Augusto Schettini](https://img.shields.io/github/followers/augustoschettini?label=follow&style=social)](https://github.com/augustoschettini)
+
+Hello! My name is Augusto Schettini, and I'm a professional in IT infrastructure. With a solid technical background and leadership skills, I'm always seeking new challenges to enhance my abilities and contribute to the success of the teams I work with.
+
+As a self-taught learner, I'm constantly pursuing new knowledge. Currently, I'm studying programming and information security (cybersecurity) with the goal of transitioning my career.
+
+I've always been passionate about cybersecurity. Back in the Orkut days, I participated in "Hacker" communities, studying software vulnerability exploitation.
+
+My interest in development (programming) began with creating websites using Flash Player and Dreamweaver, but I set it aside until recently. I encountered a challenge while trying to use an open-source application on a newer version of Android, which wasn't compatible with the latest Android version.
+
+I saw this as an opportunity to start learning in this field and contribute to the [AnkiDroid](https://github.com/ankidroid/Anki-Android) user community.
+
+So, that's where I am, beginning my journey!
+
+- 🔭 Currently working on my skills and knowledge to become a professional in cybersecurity.
+- 🌱 Learning about development.
+- 😄 Pronouns: He/Him
